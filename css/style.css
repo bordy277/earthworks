@@ -24,6 +24,17 @@ h1 {
 	text-align: center;
 	line-height: 300px;
 }
+.labeltwo {
+	font-size: 36px;
+	color: #ffffff;
+	width: 100%;
+	z-index: 1;
+	position:absolute;
+	font-style: bold;
+	font-family: 'Fjalla One', sans-serif; 
+	text-align: center;
+	line-height: 300px;
+}
 h2 {
 	font-size: 18px;
 	margin: 0 0 15px 0;
@@ -73,6 +84,12 @@ p {
 	padding: 60px 0 0 0;
 	cursor: pointer;
 }
+.typeone {
+	height: 300px;
+	width: 630px;
+	position: absolute;
+	z-index: 1;
+}
 .login {
 	width: 326px;
 	height: 202px;
@@ -112,6 +129,24 @@ p {
 	opacity: .8;
 	margin: 225px 0 0 0;
 }
+.submit {
+	width: 632px;
+	height: 960px;
+	position: absolute;
+	background-color: #fff;
+	z-index: 1;
+}
+.ment {
+	width: 632px;
+	height: 635px;
+	position: absolute;
+	background-color: #fff;
+	z-index: 1;
+}
+.topper {
+	height: 150px;
+	background-color: #fff;
+}
 .feature {
 	padding: 100px 0 0 0;
 	background-color: #5B717B;
@@ -126,7 +161,7 @@ p {
 	margin: 0 0 0 0;
 }
 .left {
-	background-color: #5FA29E;
+	background-color: #fff;
 	width:300px;
 	height: 300px;
 	margin: 0px 15px 30px 0;
@@ -134,7 +169,7 @@ p {
 	position: relative;
 }
 .middle {
-	background-color: #5FA29E;
+	background-color: #fff;
 	width: 300px;
 	height: 300px;
 	margin: 0px 15px 30px 15px;
@@ -142,7 +177,7 @@ p {
 	position: relative;
 }
 .right {
-	background-color: #5FA29E;
+	background-color: #fff;
 	width: 300px;
 	height: 300px;
 	margin: 0px 0px 30px 15px;
